@@ -1,0 +1,9 @@
+# elasticsearch
+langchain
+langchain-community
+langchain-core
+# langchain-elasticsearch
+langchain-text-splitters
+python-dotenv
+langchain-openai
+# redis
