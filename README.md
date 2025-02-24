@@ -99,8 +99,6 @@ Experience CarXStream AI Agent in action:
 - **Offer Making**: A detailed look at the offer-making process.  
   ![Demo Video](making-offer.gif)
 
-*(Click on any demo image for a full-screen view.)*
-
 ---
 
 ## Tech Stack & Tools 🛠️💻
