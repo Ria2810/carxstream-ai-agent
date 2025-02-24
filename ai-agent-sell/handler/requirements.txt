@@ -1,0 +1,9 @@
+langchain-core
+langchain
+pandas
+pydantic
+python-dotenv
+langgraph
+langchain_openai
+rapidfuzz
+elasticsearch
